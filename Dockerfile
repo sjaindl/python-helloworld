@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM 3.10.0rc1-buster
 LABEL maintainer="Stefan Jaindl"
 
 COPY . /app
